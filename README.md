@@ -39,6 +39,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 184     | Department Highest Salary | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
 | 512     | Game Play Analysis II | [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
 | 1077    | Project Employees III | [click me :dizzy: ](https://leetcode.com/problems/project-employees-iii/)|
+| 1112    | Highest Grade For Each Student | [click me :dizzy: ](https://leetcode.com/problems/highest-grade-for-each-student/)|
 
 
 # Query Thinking Framework
