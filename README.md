@@ -11,6 +11,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | Problem No.      | Problem Name          | Redirect to LeetCode.com  |
 | ------------- |:-------------:| :-----:|
 | 1511     | Customer Order Frequency | [click me :dizzy: ](https://leetcode.com/problems/customer-order-frequency/) |
+| 1174    | Immediate Food Delivery II | [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
 
 
 ## [WINDOW COUNT](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20COUNT)
@@ -24,6 +25,11 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | ------------- |:-------------:| :-----:|
 | 184     | Department Highest Salary | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
 | 512     | Game Play Analysis II | [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
+
+## [IF](https://github.com/stellapeng/LeetCode-SQL/tree/main/IF)
+| Problem No.      | Problem Name          | Redirect to LeetCode.com  |
+| ------------- |:-------------:| :-----:|
+| 1174    | Immediate Food Delivery II | [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
 
 ## [WHERE](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20RANK)
 | Problem No.      | Problem Name          | Redirect to LeetCode.com  |
@@ -40,6 +46,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 512     | Game Play Analysis II | [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
 | 1077    | Project Employees III | [click me :dizzy: ](https://leetcode.com/problems/project-employees-iii/)|
 | 1112    | Highest Grade For Each Student | [click me :dizzy: ](https://leetcode.com/problems/highest-grade-for-each-student/)|
+| 1174    | Immediate Food Delivery II | [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
 
 
 # Query Thinking Framework
