@@ -6,7 +6,7 @@ After practicing leetcode SQL question for a while, I am realizing it's necessar
 I hope visitors can find some good ideas here too! :raised_hands:
 
 
-# Question List
+# Question List By Functions
 ## [CASE](https://github.com/stellapeng/LeetCode-SQL/tree/main/CASE)
 | Problem No.      | Problem Name          | Redirect to LeetCode.com  |
 | ------------- |:-------------:| :-----:|
@@ -23,12 +23,21 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | Problem No.      | Problem Name          | Redirect to LeetCode.com  |
 | ------------- |:-------------:| :-----:|
 | 184     | Department Highest Salary | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
+| 512     | Game Play Analysis II | [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
 
 ## [WHERE](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20RANK)
 | Problem No.      | Problem Name          | Redirect to LeetCode.com  |
 | ------------- |:-------------:| :-----:|
 | 184     | Department Highest Salary | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
+| 512     | Game Play Analysis II | [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
 
+
+# Question List By Tasks
+## Records with GROUP MAX/MIN
+ Problem No.      | Problem Name          | Redirect to LeetCode.com  |
+| ------------- |:-------------:| :-----:|
+| 184     | Department Highest Salary | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
+| 512     | Game Play Analysis II | [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
 
 
 # Query Thinking Framework
