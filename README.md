@@ -1,4 +1,4 @@
-# LeetCode_SQL
+# LeetCode SQL
 
 
 After practicing leetcode SQL question for a while, I am realizing it's necessary to categorize them by the solution logic. This repo is a good place for effective review, it also helps me to compare across different solutions. For those questions can be well solved by multiply soluations, they will be shown in muliple places with notes.
