@@ -19,4 +19,5 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 1511     | Customer Order Frequency | [click me :dizzy: ](https://leetcode.com/problems/customer-order-frequency/) |
 
 # Query Thinking Framework
-The thinking ![flowchart below](https://i0.wp.com/huasadata.com/wp-content/uploads/2020/10/SQL-queries-flowchart_add-window-function.png?resize=768%2C608&ssl=1) is from [Huasa's Blog](https://huasadata.com/learning-sql-what-i-learned-after-100-leetcode-sql-questions/). I found this structured framwork indeed provide me an effective query buiding process.
+The thinking flowchart below is from [Huasa's Blog](https://huasadata.com/learning-sql-what-i-learned-after-100-leetcode-sql-questions/). I found this structured framwork indeed provide me an effective query buiding process.
+![SQL Thinking Frameword](https://i0.wp.com/huasadata.com/wp-content/uploads/2020/10/SQL-queries-flowchart_add-window-function.png?resize=768%2C608&ssl=1)
