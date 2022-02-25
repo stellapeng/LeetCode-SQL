@@ -47,6 +47,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 1077    | Project Employees III | [click me :dizzy: ](https://leetcode.com/problems/project-employees-iii/)|
 | 1112    | Highest Grade For Each Student | [click me :dizzy: ](https://leetcode.com/problems/highest-grade-for-each-student/)|
 | 1174    | Immediate Food Delivery II | [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
+| 1549    | The Most Recent Orders for Each Product | [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-orders-for-each-product/)|
 
 
 # Query Thinking Framework
