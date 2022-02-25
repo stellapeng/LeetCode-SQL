@@ -33,11 +33,12 @@ I hope visitors can find some good ideas here too! :raised_hands:
 
 
 # Question List By Tasks
-## Records with GROUP MAX/MIN
+## [Records with GROUP MAX|MIN](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Records%20with%20GROUP%20MAX:MIN)
  Problem No.      | Problem Name          | Redirect to LeetCode.com  |
 | ------------- |:-------------:| :-----:|
 | 184     | Department Highest Salary | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
 | 512     | Game Play Analysis II | [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
+| 1077    | Project Employees III | [click me :dizzy: ](https://leetcode.com/problems/project-employees-iii/)|
 
 
 # Query Thinking Framework
