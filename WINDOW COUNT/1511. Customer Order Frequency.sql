@@ -1,3 +1,6 @@
+-- Attention: cannot use LIMIT
+-- JOIN + GROUP BY/WINDOW FUNCTION
+
 -- Solution 1
 -- There are two subqueries, the first subquery is to agg value per customer per month in june and july
 -- the second subquery is to count the count of months with value >= 100
