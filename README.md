@@ -7,27 +7,27 @@ I hope visitors can find some good ideas here too! :raised_hands:
 
 
 # Question List
-## CASE
+## [CASE](https://github.com/stellapeng/LeetCode-SQL/tree/main/CASE)
 | Problem No.      | Problem Name          | Redirect to LeetCode.com  |
 | ------------- |:-------------:| :-----:|
 | 1511     | Customer Order Frequency | [click me :dizzy: ](https://leetcode.com/problems/customer-order-frequency/) |
 
 
-## WINDOW COUNT
+## [WINDOW COUNT](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20COUNT)
 | Problem No.      | Problem Name          | Redirect to LeetCode.com  |
 | ------------- |:-------------:| :-----:|
 | 1511     | Customer Order Frequency | [click me :dizzy: ](https://leetcode.com/problems/customer-order-frequency/) |
 
 
-## WINDOW RANK
+## [WINDOW RANK](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20RANK)
 | Problem No.      | Problem Name          | Redirect to LeetCode.com  |
 | ------------- |:-------------:| :-----:|
-| 184     | Department Highest Salary | [click me :dizzy: ]|
+| 184     | Department Highest Salary | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
 
-## WHERE
+## [WHERE](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20RANK)
 | Problem No.      | Problem Name          | Redirect to LeetCode.com  |
 | ------------- |:-------------:| :-----:|
-| 184     | Department Highest Salary | [click me :dizzy: ]|
+| 184     | Department Highest Salary | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
 
 
 
