@@ -30,8 +30,8 @@ FROM (
     SELECT customer_id, name,
            SUM(CASE WHEN LEFT(order_date, 7)='2020-06' THEN quantity * price END) AS june_spend,
            SUM(CASE WHEN LEFT(order_date, 7)='2020-07' THEN quantity * price END) AS july_spend
-    FROM orders o
-    INNER JOIN Product p
+    FROM orders
+    INNER JOIN Product
     USING (product_id)
     INNER JOIN Customers
     USING (customer_id)
@@ -39,3 +39,5 @@ FROM (
     HAVING june_spend >= 100 AND july_spend >= 100
     ) AS tbl
 -- WHERE june_spend >= 100 AND july_spend >= 100
+
+
