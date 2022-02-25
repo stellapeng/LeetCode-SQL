@@ -1,5 +1,5 @@
 -- Solution 1
--- There are two subqueries, first subquery is to agg value per customer per month in june and july
+-- There are two subqueries, the first subquery is to agg value per customer per month in june and july
 -- the second subquery is to count the count of months with value >= 100
 
 SELECT DISTINCT customer_id, name
@@ -22,7 +22,7 @@ WHERE cnt = 2
 
 
 -- Solution 2
--- To recuduce the nested queries, we should come up with a better way to identify the "spend over 100 in each month", which gives us the solution 2 as below:
+-- To recuduce the nested queries, we should come up with a better way to identify the "spend over 100 in each month"
 -- AGGREGATION ON CASE WHEN
 
 SELECT customer_id, name
