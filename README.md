@@ -58,6 +58,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 185     | Department Top Three Salaries | Hard | [click me :dizzy: ](https://leetcode.com/problems/department-top-three-salaries/)|
+| 1532    | The Most Recent Three Orders | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-three-orders/)|
 
 # Query Thinking Framework
 The thinking flowchart below is from [Huasa's Blog](https://huasadata.com/learning-sql-what-i-learned-after-100-leetcode-sql-questions/). I found this structured framwork indeed provides me an effective query thinking process.
