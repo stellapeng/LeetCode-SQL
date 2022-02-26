@@ -26,7 +26,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 184     | Department Highest Salary |Medium| [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
 | 512     | Game Play Analysis II |Easy |  [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
 
-## GROUP BY HAVING
+## [GROUP BY HAVING](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/GROUP%20BY%20HAVING)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 185     | Department Top Three Salaries | Hard | [click me :dizzy: ](https://leetcode.com/problems/department-top-three-salaries/)|
