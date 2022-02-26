@@ -44,7 +44,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 
 
 # Question List By Tasks
-## [Find the MAX|MIN](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Records%20with%20GROUP%20MAX:MIN)
+## [Find the MAX|MIN](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20the%20MAX%7CMIN)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 184     | Department Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
@@ -54,7 +54,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 1174    | Immediate Food Delivery II |Medium |  [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
 | 1549    | The Most Recent Orders for Each Product |Medium |  [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-orders-for-each-product/)|
 
-## [Find the Top N]
+## [Find the Top N](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20the%20Top%20N)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 185     | Department Top Three Salaries | Hard | [click me :dizzy: ](https://leetcode.com/problems/department-top-three-salaries/)|
