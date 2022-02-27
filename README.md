@@ -23,7 +23,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 1532    | The Most Recent Three Orders | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-three-orders/)|
 | 178    | Rank Scores | Medium | [click me :dizzy: ](https://leetcode.com/problems/rank-scores/)|
 | 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/second-highest-salary/)|
-| 1596    | The Most Frequently Ordered Products for Each Customer | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/)| Partition + GROUP BY|
+| 1596    | The Most Frequently Ordered Products for Each Customer | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/)| Partition + Group by|
 
 
 # Question List By Functions
