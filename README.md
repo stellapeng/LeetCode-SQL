@@ -17,12 +17,13 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 1549    | The Most Recent Orders for Each Product |Medium |  [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-orders-for-each-product/)|
 
 ## [Find the Top N](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20the%20Top%20N)
-| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
-| ------------- |:-------------| :-----:| :-----:|
+| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
+| ------------- |:-------------| :-----:| :-----:|:-----|
 | 185     | Department Top Three Salaries | Hard | [click me :dizzy: ](https://leetcode.com/problems/department-top-three-salaries/)|
 | 1532    | The Most Recent Three Orders | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-three-orders/)|
 | 178    | Rank Scores | Medium | [click me :dizzy: ](https://leetcode.com/problems/rank-scores/)|
 | 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/second-highest-salary/)|
+| 1596    | The Most Frequently Ordered Products for Each Customer | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/)| Partition + GROUP BY|
 
 
 # Question List By Functions
