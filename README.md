@@ -5,6 +5,25 @@ After practicing leetcode SQL question for a while, I am realizing it's necessar
 
 I hope visitors can find some good ideas here too! :raised_hands:
 
+# Question List By Tasks
+## [Find the MAX|MIN](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20the%20MAX%7CMIN)
+| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
+| ------------- |:-------------| :-----:| :-----:|
+| 184     | Department Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
+| 512     | Game Play Analysis II | Easy | [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
+| 1077    | Project Employees III |Medium |  [click me :dizzy: ](https://leetcode.com/problems/project-employees-iii/)|
+| 1112    | Highest Grade For Each Student|Medium | [click me :dizzy: ](https://leetcode.com/problems/highest-grade-for-each-student/)|
+| 1174    | Immediate Food Delivery II |Medium |  [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
+| 1549    | The Most Recent Orders for Each Product |Medium |  [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-orders-for-each-product/)|
+
+## [Find the Top N](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20the%20Top%20N)
+| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
+| ------------- |:-------------| :-----:| :-----:|
+| 185     | Department Top Three Salaries | Hard | [click me :dizzy: ](https://leetcode.com/problems/department-top-three-salaries/)|
+| 1532    | The Most Recent Three Orders | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-three-orders/)|
+| 178    | Rank Scores | Medium | [click me :dizzy: ](https://leetcode.com/problems/rank-scores/)|
+| 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/second-highest-salary/)|
+
 
 # Question List By Functions
 ## [CASE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/CASE)
@@ -36,31 +55,19 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | ------------- |:-------------| :-----:| :-----:|
 | 1174    | Immediate Food Delivery II |Medium| [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
 
-## [WHERE](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20RANK)
+## [WHERE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/WHERE)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 184     | Department Highest Salary |Medium|  [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
 | 512     | Game Play Analysis II | Easy |[click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
 
-
-# Question List By Tasks
-## [Find the MAX|MIN](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20the%20MAX%7CMIN)
+## [LIMIT](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20RANK)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
-| 184     | Department Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
-| 512     | Game Play Analysis II | Easy | [click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
-| 1077    | Project Employees III |Medium |  [click me :dizzy: ](https://leetcode.com/problems/project-employees-iii/)|
-| 1112    | Highest Grade For Each Student|Medium | [click me :dizzy: ](https://leetcode.com/problems/highest-grade-for-each-student/)|
-| 1174    | Immediate Food Delivery II |Medium |  [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
-| 1549    | The Most Recent Orders for Each Product |Medium |  [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-orders-for-each-product/)|
+| 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/LIMIT)|
 
-## [Find the Top N](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20the%20Top%20N)
-| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
-| ------------- |:-------------| :-----:| :-----:|
-| 185     | Department Top Three Salaries | Hard | [click me :dizzy: ](https://leetcode.com/problems/department-top-three-salaries/)|
-| 1532    | The Most Recent Three Orders | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-three-orders/)|
-| 178    | Rank Scores | Medium | [click me :dizzy: ](https://leetcode.com/problems/rank-scores/)|
-| 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/second-highest-salary/)|
+
+
 
 # Query Thinking Framework
 The thinking flowchart below is from [Huasa's Blog](https://huasadata.com/learning-sql-what-i-learned-after-100-leetcode-sql-questions/). I found this structured framwork indeed provides me an effective query thinking process.
