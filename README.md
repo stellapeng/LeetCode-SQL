@@ -7,20 +7,20 @@ I hope visitors can find some good ideas here too! :raised_hands:
 
 
 # Question List By Functions
-## [CASE](https://github.com/stellapeng/LeetCode-SQL/tree/main/CASE)
+## [CASE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/CASE)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 1511     | Customer Order Frequency |Easy| [click me :dizzy: ](https://leetcode.com/problems/customer-order-frequency/) |
 | 1174    | Immediate Food Delivery II | Medium|[click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
 
 
-## [WINDOW COUNT](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20COUNT)
+## [WINDOW COUNT](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/WINDOW%20COUNT)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 1511     | Customer Order Frequency |Easy| [click me :dizzy: ](https://leetcode.com/problems/customer-order-frequency/) |
 
 
-## [WINDOW RANK](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20RANK)
+## [WINDOW RANK](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/WINDOW%20RANK)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 184     | Department Highest Salary |Medium| [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
@@ -60,6 +60,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 185     | Department Top Three Salaries | Hard | [click me :dizzy: ](https://leetcode.com/problems/department-top-three-salaries/)|
 | 1532    | The Most Recent Three Orders | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-recent-three-orders/)|
 | 178    | Rank Scores | Medium | [click me :dizzy: ](https://leetcode.com/problems/rank-scores/)|
+| 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/second-highest-salary/)|
 
 # Query Thinking Framework
 The thinking flowchart below is from [Huasa's Blog](https://huasadata.com/learning-sql-what-i-learned-after-100-leetcode-sql-questions/). I found this structured framwork indeed provides me an effective query thinking process.
