@@ -25,6 +25,11 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/second-highest-salary/)|
 | 1596    | The Most Frequently Ordered Products for Each Customer | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/)| Partition + Group by|
 
+## [Find Value by Group(https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20the%20Top%20N)
+| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
+| ------------- |:-------------| :-----:| :-----:|:-----|
+| 580     | Count Student Number in Departments | Medium | [click me :dizzy: ](https://leetcode.com/problems/count-student-number-in-departments/)|
+
 
 # Question List By Functions
 ## [CASE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/CASE)
