@@ -57,6 +57,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | ------------- |:-------------| :-----:| :-----:|
 | 185     | Department Top Three Salaries | Hard | [click me :dizzy: ](https://leetcode.com/problems/department-top-three-salaries/)|
 | 1241     | Number of Comments per Post | Easy | [click me :dizzy: ](https://leetcode.com/problems/number-of-comments-per-post/)|
+|1076    | Project Employees II | Easy | [click me :dizzy: ](https://leetcode.com/problems/project-employees-ii/)
 
 ## [IF](https://github.com/stellapeng/LeetCode-SQL/tree/main/IF)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
