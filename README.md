@@ -38,6 +38,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | ------------- |:-------------| :-----:| :-----:|
 | 1511     | Customer Order Frequency |Easy| [click me :dizzy: ](https://leetcode.com/problems/customer-order-frequency/) |
 | 1174    | Immediate Food Delivery II | Medium|[click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
+| 1179    | Reformat Department Table | Easy|[click me :dizzy: ](https://leetcode.com/problems/reformat-department-table/)|
 
 
 ## [WINDOW COUNT](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/WINDOW%20COUNT)
@@ -65,6 +66,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 1174    | Immediate Food Delivery II |Medium| [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
+| 1179    | Reformat Department Table | Easy|[click me :dizzy: ](https://leetcode.com/problems/reformat-department-table/)|
 
 ## [WHERE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/WHERE)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
