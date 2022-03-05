@@ -62,12 +62,15 @@ I hope visitors can find some good ideas here too! :raised_hands:
 |1082    | Sales Analysis I | Easy | [click me :dizzy: ](https://leetcode.com/problems/sales-analysis-i/)
 |574    | Winning Candidate | Medium | [click me :dizzy: ](https://leetcode.com/problems/winning-candidate/)
 |618    | Students Report By Geography | Hard | [click me :dizzy: ](https://leetcode.com/problems/students-report-by-geography/)
+|1777    | Product's Price for Each Store | Easy | [click me :dizzy: ](https://leetcode.com/problems/products-price-for-each-store/)
 
 ## [IF](https://github.com/stellapeng/LeetCode-SQL/tree/main/IF)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 1174    | Immediate Food Delivery II |Medium| [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
-| 1179    | Reformat Department Table | Easy|[click me :dizzy: ](https://leetcode.com/problems/reformat-department-table/)|
+| 1179    | Reformat Department Table | Easy|[click me :dizzy: ](https://leetcode.com/problems/reformat-department-table/)
+|618    | Students Report By Geography | Hard | [click me :dizzy: ](https://leetcode.com/problems/students-report-by-geography/)
+|1777    | Product's Price for Each Store | Easy | [click me :dizzy: ](https://leetcode.com/problems/products-price-for-each-store/)
 
 ## [WHERE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/WHERE)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
