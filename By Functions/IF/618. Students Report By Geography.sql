@@ -30,6 +30,7 @@ GROUP BY rn
 
 # method 2:
 # use LEFT JOIN since America has no less students thant the other two continents
+# slowest, less robust method
 SELECT America, Asia, Europe
 FROM 
     (SELECT name AS America, ROW_NUMBER() OVER () AS rn
