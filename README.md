@@ -61,6 +61,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 |1076    | Project Employees II | Easy | [click me :dizzy: ](https://leetcode.com/problems/project-employees-ii/)
 |1082    | Sales Analysis I | Easy | [click me :dizzy: ](https://leetcode.com/problems/sales-analysis-i/)
 |574    | Winning Candidate | Medium | [click me :dizzy: ](https://leetcode.com/problems/winning-candidate/)
+|618    | Students Report By Geography | Hard | [click me :dizzy: ](https://leetcode.com/problems/students-report-by-geography/)
 
 ## [IF](https://github.com/stellapeng/LeetCode-SQL/tree/main/IF)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
