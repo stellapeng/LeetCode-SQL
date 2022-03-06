@@ -41,6 +41,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 1174    | Immediate Food Delivery II | Medium|[click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
 | 1179    | Reformat Department Table | Easy|[click me :dizzy: ](https://leetcode.com/problems/reformat-department-table/)|
 | 1159    | Market Analysis II | Hard | [click me :dizzy: ](https://leetcode.com/problems/market-analysis-ii/)| Subquery in CASE|
+| 1440    | Evaluate Boolean Expression | Medium | [click me :dizzy: ](https://leetcode.com/problems/evaluate-boolean-expression/)| |
 
 
 ## [WINDOW COUNT](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/WINDOW%20COUNT)
