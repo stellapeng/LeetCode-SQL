@@ -24,6 +24,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 178    | Rank Scores | Medium | [click me :dizzy: ](https://leetcode.com/problems/rank-scores/)|
 | 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://leetcode.com/problems/second-highest-salary/)|
 | 1596    | The Most Frequently Ordered Products for Each Customer | Medium | [click me :dizzy: ](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/)| Partition + Group by|
+| 1159    | Market Analysis II | Hard | [click me :dizzy: ](https://leetcode.com/problems/market-analysis-ii/)| Subquery in CASE|
 
 ## [Find Value by Group](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20Value%20by%20Group)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
@@ -34,11 +35,12 @@ I hope visitors can find some good ideas here too! :raised_hands:
 
 # Question List By Functions
 ## [CASE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/CASE)
-| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
-| ------------- |:-------------| :-----:| :-----:|
+| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
+| ------------- |:-------------| :-----:| :-----:|:-----|
 | 1511     | Customer Order Frequency |Easy| [click me :dizzy: ](https://leetcode.com/problems/customer-order-frequency/) |
 | 1174    | Immediate Food Delivery II | Medium|[click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
 | 1179    | Reformat Department Table | Easy|[click me :dizzy: ](https://leetcode.com/problems/reformat-department-table/)|
+| 1159    | Market Analysis II | Hard | [click me :dizzy: ](https://leetcode.com/problems/market-analysis-ii/)| Subquery in CASE|
 
 
 ## [WINDOW COUNT](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/WINDOW%20COUNT)
