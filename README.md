@@ -74,6 +74,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 1179    | Reformat Department Table | Easy|[click me :dizzy: ](https://leetcode.com/problems/reformat-department-table/)
 |618    | Students Report By Geography | Hard | [click me :dizzy: ](https://leetcode.com/problems/students-report-by-geography/)
 |1777    | Product's Price for Each Store | Easy | [click me :dizzy: ](https://leetcode.com/problems/products-price-for-each-store/)
+|1127    | User Purchase Platform | Hard | [click me :dizzy: ](https://leetcode.com/problems/user-purchase-platform/)
 
 ## [WHERE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/WHERE)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
