@@ -88,7 +88,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/LIMIT)|
 
 
-## [UPDATE&DELETE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/INSERT:UPDATE)
+## [UPDATE&DELETE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/UPDATE%26DELETE)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
 | ------------- |:-------------| :-----:| :-----:|:-----|
 | 627     | Swap Salary | Easy | [click me :dizzy: ](https://leetcode.com/problems/swap-salary/)| UPDATE|
