@@ -32,6 +32,11 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 580     | Count Student Number in Departments | Medium | [click me :dizzy: ](https://leetcode.com/problems/count-student-number-in-departments/)|
 | 1251     | Average Selling Price | Easy | [click me :dizzy: ](https://leetcode.com/problems/average-selling-price/)|
 
+## [INSERT/UPDATE]()
+| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
+| ------------- |:-------------| :-----:| :-----:|:-----|
+| 627     | Swap Salary | Easy | [click me :dizzy: ](https://leetcode.com/problems/swap-salary/)|
+
 
 # Question List By Functions
 ## [CASE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/CASE)
