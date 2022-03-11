@@ -33,7 +33,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 1251     | Average Selling Price | Easy | [click me :dizzy: ](https://leetcode.com/problems/average-selling-price/)|
 
 
-## [Find Median]()
+## [Find Median](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Tasks/Find%20Median)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
 | ------------- |:-------------| :-----:| :-----:|:-----|
 | 569     | Median Employee Salary | Hard | [click me :dizzy: ](https://leetcode.com/problems/median-employee-salary/)|
