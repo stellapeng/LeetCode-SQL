@@ -100,4 +100,4 @@ I hope visitors can find some good ideas here too! :raised_hands:
 The thinking flowchart below is from [Huasa's Blog](https://huasadata.com/learning-sql-what-i-learned-after-100-leetcode-sql-questions/). I found this structured framwork indeed provides me an effective query thinking process.
 ![SQL Thinking Frameword](https://i0.wp.com/huasadata.com/wp-content/uploads/2020/10/SQL-queries-flowchart_add-window-function.png?resize=768%2C608&ssl=1)
 
-# SQL Function Summary
+# 50 SQL Concept Questions by [Jay Feng] (https://www.interviewquery.com/blog-sql-interview-questions)
