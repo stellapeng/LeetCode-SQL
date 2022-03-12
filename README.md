@@ -74,7 +74,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 |618    | Students Report By Geography | Hard | [click me :dizzy: ](https://leetcode.com/problems/students-report-by-geography/)
 |1777    | Product's Price for Each Store | Easy | [click me :dizzy: ](https://leetcode.com/problems/products-price-for-each-store/)
 
-## [IF](https://github.com/stellapeng/LeetCode-SQL/tree/main/IF)
+## [IF](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/IF)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 1174    | Immediate Food Delivery II |Medium| [click me :dizzy: ](https://leetcode.com/problems/immediate-food-delivery-ii/)|
@@ -89,12 +89,12 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | 184     | Department Highest Salary |Medium|  [click me :dizzy: ](https://leetcode.com/problems/department-highest-salary/)|
 | 512     | Game Play Analysis II | Easy |[click me :dizzy: ](https://leetcode.com/problems/game-play-analysis-ii/)|
 
-## [LIMIT](https://github.com/stellapeng/LeetCode-SQL/tree/main/WINDOW%20RANK)
+## [LIMIT](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/LIMIT)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
 | ------------- |:-------------| :-----:| :-----:|
 | 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/LIMIT)|
 
-## [TIME]()
+## [TIME](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/TIME)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
 | ------------- |:-------------| :-----:| :-----:|:-----|
 | 1193    | Monthly Transactions I | Medium | [click me :dizzy: ](https://leetcode.com/problems/monthly-transactions-i/)| DATE_FORMAT|
