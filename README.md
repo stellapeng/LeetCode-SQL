@@ -73,6 +73,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 |574    | Winning Candidate | Medium | [click me :dizzy: ](https://leetcode.com/problems/winning-candidate/)
 |618    | Students Report By Geography | Hard | [click me :dizzy: ](https://leetcode.com/problems/students-report-by-geography/)
 |1777    | Product's Price for Each Store | Easy | [click me :dizzy: ](https://leetcode.com/problems/products-price-for-each-store/)
+| 1205    | Monthly Transactions II | Medium | [click me :dizzy: ](https://leetcode.com/problems/monthly-transactions-ii/)| 
 
 ## [IF](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/IF)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  |
@@ -98,6 +99,12 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
 | ------------- |:-------------| :-----:| :-----:|:-----|
 | 1193    | Monthly Transactions I | Medium | [click me :dizzy: ](https://leetcode.com/problems/monthly-transactions-i/)| DATE_FORMAT|
+
+
+## [UNION](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/UNION)
+| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
+| ------------- |:-------------| :-----:| :-----:|:-----|
+| 1205    | Monthly Transactions II | Medium | [click me :dizzy: ](https://leetcode.com/problems/monthly-transactions-ii/)| |
 
 
 
