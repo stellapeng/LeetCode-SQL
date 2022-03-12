@@ -94,6 +94,12 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | ------------- |:-------------| :-----:| :-----:|
 | 176    | Second Highest Salary | Medium | [click me :dizzy: ](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/LIMIT)|
 
+## [TIME]()
+| Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
+| ------------- |:-------------| :-----:| :-----:|:-----|
+| 1193    | Monthly Transactions I | Medium | [click me :dizzy: ](https://leetcode.com/problems/monthly-transactions-i/)| DATE_FORMAT|
+
+
 
 ## [UPDATE&DELETE](https://github.com/stellapeng/LeetCode-SQL/tree/main/By%20Functions/UPDATE%26DELETE)
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
