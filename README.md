@@ -37,6 +37,7 @@ I hope visitors can find some good ideas here too! :raised_hands:
 | Problem No.      | Problem Name          | Difficulty | Redirect to LeetCode.com  | Comment |
 | ------------- |:-------------| :-----:| :-----:|:-----|
 | 569     | Median Employee Salary | Hard | [click me :dizzy: ](https://leetcode.com/problems/median-employee-salary/)|
+| 571     | Find Median Given Frequency of Numbers | Hard | [click me :dizzy: ](https://leetcode.com/problems/find-median-given-frequency-of-numbers/)|
 
 
 # Question List By Functions
